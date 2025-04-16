@@ -42,7 +42,7 @@ Also, because using a million-dollar quantum infrastructure to avoid making deci
 ## Run it locally
 
 ```bash
-git clone https://github.com/yanisoln/quantum-todolist.git
+git clone git@github.com:yanisoln/quantum-todolist.git
 cd quantum-todo
 pip install -r requirements.txt
 python quantum_todo.py
